@@ -1,0 +1,20 @@
+.back {
+    border-radius: 8px;
+    padding: 10px;
+    background-color: #232b79;
+    color: white;
+    text-decoration: none;
+    border: #232b79 3px solid;
+    font-family: sans-serif;
+    font-size: 16px;
+}
+.back:hover {
+    color: black;
+    background-color: white;
+    font-size: 16px;
+}
+.episode {
+    border: #232b79 8px solid;
+    border-radius: 8px;
+    margin-top: -60px;
+}
