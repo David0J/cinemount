@@ -966,7 +966,6 @@
 .bgcolor {
   background-color: #232B79;
   display: flex;
-  justify-content: space-around;
 }
 @media (max-width: 575px) {
   .bgcolor {
