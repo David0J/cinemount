@@ -1,5 +1,5 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 874px;
+  min-height: 574px;
 }
 
 .u-section-1 .u-list-1 {
@@ -10,7 +10,7 @@
 
 .u-section-1 .u-repeater-1 {
   grid-template-columns: calc(25% - 22.5px) calc(25% - 22.5px) calc(25% - 22.5px) calc(25% - 22.5px);
-  min-height: 844px;
+  min-height: 544px;
   grid-gap: 30px 30px;
 }
 
